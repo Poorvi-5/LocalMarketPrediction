@@ -97,3 +97,8 @@ We aim to bridge the gap between local market knowledge and formal economic fore
 - Minimum stake requirements prevent spam predictions
 - Time-based restrictions ensure fair market participation
 - Platform fee collection maintains ecosystem sustainability
+- 
+
+Contract Address :  0xB767573F4d9B9324b5189B51fC8541f63693EDFd
+![image](https://github.com/user-attachments/assets/fbec44a0-518b-4656-969b-b5ded7a1d1eb)
+
