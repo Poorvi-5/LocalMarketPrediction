@@ -1,3 +1,4 @@
+
 function getUserPredictions(address _user) external view returns (Prediction[] memory) {
     uint256[] memory indices = userPredictions[_user];
     uint256 totalPredictions;
@@ -29,4 +30,3 @@ function getUserPredictions(address _user) external view returns (Prediction[] m
     }
 
     return predictions;
-}
